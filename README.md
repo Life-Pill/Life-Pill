@@ -1,4 +1,8 @@
 # LifePill Software Company
+<p align="center">
+  <img width="170" alt="Logo" src="https://github.com/Life-Pill/.github/assets/123730262/76cfe892-ac5e-43de-8906-3a4636eeb237">
+</p>
+
 
 Welcome to the official repository of LifePill, a revolutionary medicine finding and pharmacy management solution.
 
@@ -49,3 +53,9 @@ This project is licensed under the [MIT License](LICENSE).
 For inquiries, please contact our team at [info@lifepill.com](mailto:info@lifepill.com).
 
 Thank you for choosing LifePill to enhance your healthcare experience!
+<img width="1440" alt="LifePill" src="https://github.com/Life-Pill/.github/assets/123730262/10a20678-d2ab-4005-8713-9c89a7a142d1"><img width="1434" alt="LifePillPatent" src="https://github.com/Life-Pill/.github/assets/123730262/1938697e-9a9f-434b-bec2-d7cb52e2b150">
+<img width="1417" alt="LifePillPhamacy" src="https://github.com/Life-Pill/.github/assets/123730262/fa42f2a3-a4a6-45e7-9fbf-a3292c62388f">
+
+
+
+
