@@ -42,8 +42,16 @@ To use LifePill:
 
 ## Contributing
 
-LifePill is an open-source project, and we welcome contributions from the community. If you're interested in contributing, please follow our [Contribution Guidelines](CONTRIBUTING.md).
+## Our Team
 
+A big thank you to our dedicated team members:
+
+- [@PramithaMJ](https://github.com/PramithaMJ)
+- [@Thariz](https://github.com/TheTharz)
+- [@ChandulaJ](https://github.com/ChandulaJ)
+- [@InupaV](https://github.com/VihanDI)
+
+Your valuable contributions make LifePill better for everyone!
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
