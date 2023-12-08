@@ -47,7 +47,7 @@ To use LifePill:
 A big thank you to our dedicated team members:
 
 - [@PramithaMJ](https://github.com/PramithaMJ)
-- [@Thariz](https://github.com/TheTharz)
+- [@TheTharz](https://github.com/TheTharz)
 - [@ChandulaJ](https://github.com/ChandulaJ)
 - [@InupaV](https://github.com/VihanDI)
 
