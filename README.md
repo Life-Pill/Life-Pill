@@ -59,7 +59,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 
 - For inquiries, please contact our team at [LifePillinfo@gmail.com](mailto:lifepillinfo@gmail.com).
-- FaceBook Page [LifePill](mailto:https://www.facebook.com/people/LifePill/61554989355685/).
+- FaceBook Page [LifePill](https://www.facebook.com/people/LifePill/61554989355685/).
 
 Thank you for choosing LifePill to enhance your healthcare experience!
 <img width="1440" alt="LifePill" src="https://github.com/Life-Pill/.github/assets/123730262/10a20678-d2ab-4005-8713-9c89a7a142d1"><img width="1434" alt="LifePillPatent" src="https://github.com/Life-Pill/.github/assets/123730262/1938697e-9a9f-434b-bec2-d7cb52e2b150">
