@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-04-06T07:15:38.334Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="EDJ7dCMjr8M1zQQpoKIL" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-06T07:22:16.607Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="pbW5fVTPLhaYFvXIOPrh" version="24.2.2" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="996" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="aM2i4xo6ojWkRo-a2DTI-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aM2i4xo6ojWkRo-a2DTI-2">
+        <mxCell id="aM2i4xo6ojWkRo-a2DTI-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=cross;endFill=0;" edge="1" parent="1" source="aM2i4xo6ojWkRo-a2DTI-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="140" y="540" as="targetPoint" />
             <Array as="points">
@@ -24,13 +24,142 @@
         <mxCell id="aM2i4xo6ojWkRo-a2DTI-3" value="System" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aM2i4xo6ojWkRo-a2DTI-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aM2i4xo6ojWkRo-a2DTI-4">
+        <mxCell id="aM2i4xo6ojWkRo-a2DTI-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=cross;endFill=0;" edge="1" parent="1" source="aM2i4xo6ojWkRo-a2DTI-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="730" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aM2i4xo6ojWkRo-a2DTI-4" value="Payment Gateway" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aM2i4xo6ojWkRo-a2DTI-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="180" as="sourcePoint" />
+            <mxPoint x="470" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aM2i4xo6ojWkRo-a2DTI-9" value="Select item for purchase" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aM2i4xo6ojWkRo-a2DTI-8">
+          <mxGeometry x="-0.1588" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aM2i4xo6ojWkRo-a2DTI-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="150" as="sourcePoint" />
+            <mxPoint x="470" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550" y="150" />
+              <mxPoint x="550" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aM2i4xo6ojWkRo-a2DTI-11" value="Display a prompt&lt;div&gt;&amp;nbsp;to select payment method&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aM2i4xo6ojWkRo-a2DTI-10">
+          <mxGeometry x="-0.0033" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aM2i4xo6ojWkRo-a2DTI-13" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="260" as="sourcePoint" />
+            <mxPoint x="140" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aM2i4xo6ojWkRo-a2DTI-14" value="Display a checkout option" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aM2i4xo6ojWkRo-a2DTI-13">
+          <mxGeometry x="0.0073" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aM2i4xo6ojWkRo-a2DTI-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="300" as="sourcePoint" />
+            <mxPoint x="470" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aM2i4xo6ojWkRo-a2DTI-16" value="Proceed to checkout" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aM2i4xo6ojWkRo-a2DTI-15">
+          <mxGeometry x="0.0291" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aM2i4xo6ojWkRo-a2DTI-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="340" as="sourcePoint" />
+            <mxPoint x="140" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aM2i4xo6ojWkRo-a2DTI-18" value="Display payment methods" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aM2i4xo6ojWkRo-a2DTI-17">
+          <mxGeometry x="0.08" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aM2i4xo6ojWkRo-a2DTI-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="370" as="sourcePoint" />
+            <mxPoint x="470" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aM2i4xo6ojWkRo-a2DTI-23" value="Select a payment method" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aM2i4xo6ojWkRo-a2DTI-21">
+          <mxGeometry x="-0.0315" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aM2i4xo6ojWkRo-a2DTI-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="320" as="sourcePoint" />
+            <mxPoint x="470" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550" y="320" />
+              <mxPoint x="550" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aM2i4xo6ojWkRo-a2DTI-25" value="Take inputs of payment&lt;div&gt;&amp;nbsp;details&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aM2i4xo6ojWkRo-a2DTI-24">
+          <mxGeometry x="0.0217" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aM2i4xo6ojWkRo-a2DTI-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="420" as="sourcePoint" />
+            <mxPoint x="470" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aM2i4xo6ojWkRo-a2DTI-27" value="Enter payment details" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aM2i4xo6ojWkRo-a2DTI-26">
+          <mxGeometry x="-0.0012" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aM2i4xo6ojWkRo-a2DTI-28" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="440" as="sourcePoint" />
+            <mxPoint x="730" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aM2i4xo6ojWkRo-a2DTI-29" value="Proceed the payment" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aM2i4xo6ojWkRo-a2DTI-28">
+          <mxGeometry x="-0.0477" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aM2i4xo6ojWkRo-a2DTI-30" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="480" as="sourcePoint" />
+            <mxPoint x="470" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aM2i4xo6ojWkRo-a2DTI-31" value="Send the confirmation" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aM2i4xo6ojWkRo-a2DTI-30">
+          <mxGeometry x="-0.0138" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aM2i4xo6ojWkRo-a2DTI-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="500" as="sourcePoint" />
+            <mxPoint x="140" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aM2i4xo6ojWkRo-a2DTI-33" value="Complete the transaction" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aM2i4xo6ojWkRo-a2DTI-32">
+          <mxGeometry x="0.0194" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
