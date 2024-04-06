@@ -1,9 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2024-04-06T09:59:00.776Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="24.2.2" etag="nM72hRYneyQHN593DK3D" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-06T10:52:06.134Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="_zx_9Gr91-ZAcMMwfj0X" version="24.2.2" type="github">
   <diagram name="Page-1" id="GcYGgkhkUk2YRq2MwlXR">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4eDxh4tflcQPIbnNMYOf-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="220" width="680" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="4eDxh4tflcQPIbnNMYOf-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="4eDxh4tflcQPIbnNMYOf-2" target="4eDxh4tflcQPIbnNMYOf-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4eDxh4tflcQPIbnNMYOf-2" value="Patient&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="250" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4eDxh4tflcQPIbnNMYOf-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="4eDxh4tflcQPIbnNMYOf-5" target="4eDxh4tflcQPIbnNMYOf-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4eDxh4tflcQPIbnNMYOf-5" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Navigate to Profile or Account Settings section&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="130" y="235" width="125" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="4eDxh4tflcQPIbnNMYOf-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="4eDxh4tflcQPIbnNMYOf-7" target="4eDxh4tflcQPIbnNMYOf-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4eDxh4tflcQPIbnNMYOf-7" value="Select update profile details" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="320" y="240" width="115" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4eDxh4tflcQPIbnNMYOf-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="4eDxh4tflcQPIbnNMYOf-10" target="4eDxh4tflcQPIbnNMYOf-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4eDxh4tflcQPIbnNMYOf-10" value="Modify the information" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="500" y="240" width="115" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4eDxh4tflcQPIbnNMYOf-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="4eDxh4tflcQPIbnNMYOf-12" target="4eDxh4tflcQPIbnNMYOf-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="718" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4eDxh4tflcQPIbnNMYOf-12" value="System validates the details" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="660" y="240" width="115" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4eDxh4tflcQPIbnNMYOf-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="4eDxh4tflcQPIbnNMYOf-16" target="4eDxh4tflcQPIbnNMYOf-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4eDxh4tflcQPIbnNMYOf-16" value="User confirms changes&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="660" y="420" width="115" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4eDxh4tflcQPIbnNMYOf-17" value="System confirms the update" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="660" y="570" width="115" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
